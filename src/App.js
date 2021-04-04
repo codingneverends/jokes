@@ -22,12 +22,15 @@ function App() {
   const [joke,setjoke]=useState();
   const [joke_,setjoke_]=useState();
   return (
-    <div style={{maxWidth:"500px",display:"block"}}>
+    <div className="main_ele">
       <h1 className="head1">Radom Programming Jokes</h1>
+      <br/>
+      <br/>
       <br/>
       <h3>{joke}</h3>
       <br/>
       <h3>{joke_}</h3>
+      <br/>
       <br/>
       <br/>
       <center>

@@ -19,3 +19,9 @@ button:hover{
   text-shadow: 2px 2px aqua,-2px 2px aqua,2px -2px aqua,-2px -2px aqua;
   font-size: 2.7rem;
 }
+.main_ele{
+  width: 90%;
+  display: block;
+  max-width: 500px;
+  margin-left: 5%;
+}
