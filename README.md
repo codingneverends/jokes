@@ -19,4 +19,4 @@ api     -   https://api.adviceslip.com/
 
 ---
 ## License and copyright
-  © 2021 codingneverends(Gagan Lal)
+  © 2021 codingneverends (Gagan Lal)
