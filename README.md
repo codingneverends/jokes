@@ -18,3 +18,5 @@ site    -   https://randomadvice.web.app/
 api     -   https://api.adviceslip.com/
 
 ---
+## License and copyright
+  © 2021 codingneverends(Gagan Lal)
